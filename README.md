@@ -1,3 +1,3 @@
-# getbriansploited
-![github contribution grid snake animation](https://raw.githubusercontent.com/ifconfigbrian/getbriansploited/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ifconfigbrian/getbriansploited/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake animation](https://raw.githubusercontent.com/ifconfigbrian/getbriansploited/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake animation](https://raw.githubusercontent.com/ifconfigbrian/getbriansploited/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+
